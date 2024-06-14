@@ -801,7 +801,7 @@ class Position(object):
 	# 	self.logger.info('GET POSITION BY LBS')
 	# 	HOST_URL = 'https://www.googleapis.com/geolocation/v1/geolocate'
 	# 	params = {
-	# 		"key": ''
+	# 		"key": 
 	# 	}
 
 	# 	data = json.dumps({
